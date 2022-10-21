@@ -1,6 +1,9 @@
 # MINISHELL #
 
 Jiwolee & Jaeyjeon
+
+Jiwolee's Github
+"https://github.com/jwo1024"
 ------
 9 / 13 ~ 10 / 20
 
