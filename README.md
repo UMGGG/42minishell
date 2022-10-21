@@ -11,7 +11,7 @@
 
 ------
 
-[velog Link](https://velog.io/@jen133/series/minishell)
+[Jaeyjeon's velog Link](https://velog.io/@jen133/series/minishell)
 
 ------
 9 / 13 ~ 10 / 20
