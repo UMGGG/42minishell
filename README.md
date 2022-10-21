@@ -1,6 +1,6 @@
 # MINISHELL #
 
-Jiwolee & Jaeyjeon
+## Jiwolee & Jaeyjeon
 
 Jiwolee's Github
 "https://github.com/jwo1024"
