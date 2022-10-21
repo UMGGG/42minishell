@@ -1,6 +1,6 @@
 # MINISHELL #
 
-### Jiwolee & Jaeyjeon
+### With Jiwolee
 
 
 Jiwolee's Github
