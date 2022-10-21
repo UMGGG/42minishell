@@ -3,8 +3,7 @@
 ### With Jiwolee
 
 
-Jiwolee's Github
-https://github.com/jwo1024
+[Jiwolee's Github] (https://github.com/jwo1024)
 
 ------
 
