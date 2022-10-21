@@ -6,8 +6,12 @@
 Jiwolee's Github
 https://github.com/jwo1024
 
+------
+
 Co-op Notion
 https://accessible-capricorn-be7.notion.site/minishell-6d36971050ec460b9022cbdae1a1fc4f
+
+------
 
 velog
 https://velog.io/@jen133/series/minishell
