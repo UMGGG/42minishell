@@ -7,13 +7,11 @@
 
 ------
 
-Co-op Notion
-https://accessible-capricorn-be7.notion.site/minishell-6d36971050ec460b9022cbdae1a1fc4f
+[Co-op Notion](https://accessible-capricorn-be7.notion.site/minishell-6d36971050ec460b9022cbdae1a1fc4f)
 
 ------
 
-velog
-https://velog.io/@jen133/series/minishell
+[velog](https://velog.io/@jen133/series/minishell)
 
 ------
 9 / 13 ~ 10 / 20
